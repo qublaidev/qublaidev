@@ -1,23 +1,78 @@
-##  HI THERE, I`M KUBILAY KABATAŞ 👋
-#### I`m a frontend dev with experience in building web applications using React, Nextjs, Redux, and Node.js. I have expertise in designing scalable, maintainable, and efficient applications using modern web technologies.
+# Kubilay Kabataş
 
-## Skills
-**- Frontend:**  NextJs, React, JavaScript/TypeScript, Redux, HTML5, CSS3, Tailwind CSS, MaterialUI <br/>
-**- Backend:** Node.js, Express.js, MongoDB <br/>
-**- Cloud Services:** AWS (AppSync, Amplify, API Gateway, Cloudfront, Lambda, S3, DynamoDB, Cognito) <br/>
-**- Tools:** Git, GitHub <br/>
+## 👨‍💻 Full Stack Developer
 
-## Experience
-**Frontend Dev at Go2Stone (2022 - present):** Frontend Developer for B2B Natural Stone Marketplace using NextJS, Material UI, and JavaScript. Designed and maintained user-facing applications, optimized website performance, and developed new features.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Skills:*** Nextjs, Javascript, Material UI
+Hello! I'm Kubilay, a passionate Full Stack Developer with 4 years of experience in building impactful and user-friendly websites and applications. I specialize in front-end technologies and am enthusiastic about modern web standards and cutting-edge development techniques.
 
-**Frontend Intern at  Jotform (3mo):** During my internship at JotForm, I worked on a workflow management application. The aim of this application was to provide users with a tool to quickly and easily create and assign their task lists. The project's goal was to make the workflow more effective.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Skills:*** Redux-Saga · Git · GitHub · Redux.js · React.js · JavaScript
+### 📌 Quick Info
 
+- 🌍 Based in Canakkale, Turkey
+- 📧 Contact: kubilaykabatas2@gmail.com
+- 🔗 Portfolio: [https://qublaidev.vercel.app](https://qublaidev.vercel.app)
 
-## Education
-Bachelor`s Degree in Computer Engineering from Çanakkale Onsekiz Mart University University (2020 - 2024)
+---
 
-## Contact Me
-[LinkedIn](https://www.linkedin.com/in/kubilay-kabata%C5%9F-5b5166225/ "LinkedIn") <br/>
-<kubilaykabatas2@gmail.com>
+### 🛠️ Tech Stack
+
+#### Frontend
+`Next.js` `React.js` `TypeScript` `Redux` `TailwindCSS` `ShadCN UI` `Material UI`
+
+#### Backend
+`Node.js` `Express.js`
+
+#### Databases
+`MongoDB` `PostgreSQL` `Supabase`
+
+#### ORM
+`Prisma`
+
+#### Other
+`GraphQL` `Git` `GitHub`
+
+---
+
+### 🚀 Experience
+
+#### Freelance Full Stack Developer
+*Jun 2022 - Present*
+
+- Building full stack web applications with Next.js, Supabase, Prisma ORM, and PostgreSQL/MongoDB
+- Developing responsive interfaces using ShadCN UI and TailwindCSS
+- Integrating APIs and real-time features for enhanced performance
+
+#### Front End Developer at Go2Stone
+*Dec 2022 - Jun 2023*
+
+- Developed a B2B e-commerce site using Next.js, React, Material UI, and styled-components
+- Focused on responsive design and intuitive user interfaces
+
+#### Front End Developer Intern at Jotform
+*Aug 2022 - Sep 2022*
+
+- Implemented a new flow diagram feature for the Jotform approvals product
+- Worked with React.js, Redux.js, and Redux-Saga
+
+---
+
+### 🎓 Education
+
+**Bachelor's in Computer Science**  
+Canakkale Onsekiz Mart University (2020 - 2024)
+
+---
+
+### 🌐 Languages
+
+- 🇹🇷 Turkish (Native)
+- 🇬🇧 English (Advanced)
+
+---
+
+### 🔍 Find me on:
+
+[![GitHub](https://img.shields.io/badge/GitHub-qublaidev-181717?style=for-the-badge&logo=github)](https://github.com/qublaidev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kubilay_Kabataş-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kubilay-kabata%C5%9F-5b5166225/)
+
+---
+
+Feel free to explore my repositories and don't hesitate to reach out for collaborations or questions!
