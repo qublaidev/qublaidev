@@ -40,8 +40,8 @@ Hello! I'm Kubilay, a passionate Full Stack Developer with 4 years of experience
 - Developing responsive interfaces using ShadCN UI and TailwindCSS
 - Integrating APIs and real-time features for enhanced performance
 
-#### Front End Developer at Go2Stone
-*Dec 2022 - Jun 2023*
+#### Full Stack Developer at Go2Stone
+*Dec 2022 - Jun 2025*
 
 - Developed a B2B e-commerce site using Next.js, React, Material UI, and styled-components
 - Focused on responsive design and intuitive user interfaces
